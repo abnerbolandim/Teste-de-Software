@@ -1,0 +1,28 @@
+QUANDO, COMO, O QUE =-=TESTAR=-=
+
+TIPOS DE TESTES:
+
+Teste de funcionalidade:
+
+-> BASICO E INTUITIVO
+-> Validar se as funcionalidades do sistema
+está funcionando corretamente
+
+ENVOLVE: UNIDADE, INTEGRAÇÃO, SISTEMA, ACEITAÇÃO, ALFA, BETA, REGRESSÃO;
+
+TESTE FUNCIONAIS!!!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Teste de desempenho:
+
+-> Validar o desempenho pelo seu tempo de resposta;
+
+
+EX: TEMPO DE RESPOSTA de um SISTEMA BANCÁRIO;
+-> ESPERADO: 3s a 5s
+-> NÃO ESPERADO: 30s a 1min
+
+- JMeter apache: utilizado para testes automaticos;
+-> Realizar testes de performances;
+-> Vários usuários em paralelos;

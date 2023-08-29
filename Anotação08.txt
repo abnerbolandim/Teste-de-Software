@@ -1,0 +1,65 @@
+Teste de Usabilidade: 
+
+-> Quão agradável está sendo usar o programa;
+a partir da experiência usando.
+-> Simples;
+-> Intuitivos;
+
+-> Sabendo assim o que gostou e não gostou 
+do sistema
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Teste de segurança: 
+
+-> Validam a proteção do sistema contra invasão 
+ou acesso não autorizado a informações;
+
+EX: 
+- SITES com acesso RESTRITO;
+- Tráfego de informações criptografadas;
+
+
+-> Contratação de hackers para tenatr invadir e reportar o
+que deve ser alterado no sistema;
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Teste de portabilidade:
+
+-> Validam o funcionamento do sistema em diferentes
+plataformas e dispositivos;
+
+IOS, ANDROID E ETC...
+SMARTPHONES, TABLETS, NOTEBOOKS E ETC...
+
+- Sempre adaptar em todos.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Teste de stress: 
+
+-> Validam o comportamento do sistema em condições extremas;
+
+- Vai levar o sistema ao extremo! -> respondendo de forma aceitável
+- Simular o acesso de muitos usuários ao mesmo tempo!
+
+-> Levando ao limite: trabalho extremas, memória insuficiente,
+hardware e serviços indisponíveis ou recursos compartilhados limitados;
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+TIPOS INFORMAIS:
+
+
+
+Teste de recuperabildade - Sistema caiu e o 
+tempo para recuperar;
+
+
+Teste de concorrência - Operações em pararelo;
+
+
+Teste de mantenabilidade - Se o sistema é fácil 
+ou muito complicadode manter e fazer aletrações 
+de fazer configurações;
