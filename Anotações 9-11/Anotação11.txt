@@ -1,0 +1,26 @@
+O custo da falha:
+
+- Fica muito mais caro, quando tem que resolver 
+um problema mais tarde;
+
+- Muito fácil corrigir no início
+-- Depois: ficando mais caro e atualizando os testes de sistema;
+--- Necessitanto a alteração do código 
+---- Sempre atualizando na planilha 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Mitos do Teste de software:
+
+- Testando encontra-se 100% dos defeitos;
+
+- Teste de software é um custo extra para o projeto;
+
+- Qualquer pessoa é capaz de testar bem, é só seguir o plano de testes;
+
+- Programadores não precisam testar; 
+--> É SIM: Necessário Teste de Unidade, teste de integração.
+
+- Os testes dos programadores são suficientes;
+
+- Só podemos testar quando o sistema estiver 100% pronto;

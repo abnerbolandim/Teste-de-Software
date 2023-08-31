@@ -1,0 +1,26 @@
+        =-=-=-= Desenvolvimenlto de um Software =-=-=-=
+
+
+Requisitos
+
+Especificação
+
+Criação dos cenários de testes de aceitação --> Testers envolvido
+
+Criação dos cenários de testes de sistema
+
+Arquitetura 
+
+Codificação <--> Testes de unidade --> Testes de integração -- Programadores
+
+Testes de sistema --> Testers realiza
+
+Testes de aceitação
+
+Testes de alfa e beta --> Testers envolvido  
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+

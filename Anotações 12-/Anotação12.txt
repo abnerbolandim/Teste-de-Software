@@ -1,0 +1,22 @@
+O que são testes automáticos:
+
+São testes que são executados sem 
+necessidade interferência humana
+
+- Economizar tempo e dinheiro;
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Tecnologias a serem utilizadas:
+
+Framework: Eclipse;
+
+Testes automáticos: JUnit; -> Linguagem programação JAVA;
+
+PUnit -> Linguagem programação Python
+
+e etc...
+
+Linguagem de programaçao: JAVA;
+

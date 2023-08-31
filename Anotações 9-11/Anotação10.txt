@@ -1,0 +1,97 @@
+Ferramentas para gerenciamento de testes:
+
+-> Gerenciando os testes de Sistema; -> Planilha do EXCEL
+
+-> Gerenciando os testes de aceitação; -> Planilha do EXCEL
+
+-> Gerenciando os teste alfa e beta; -> Planilha do EXCEL
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+BOAS PRÁTICAS:
+
+- Não técnicas: 
+
+-> Não esteja envolvido na programação do sistema;
+
+-> Que seja um testador especialista e não um programador;
+
+---> Planos, cenários de testes ousados
+critériosos, chatos, na ferida do sistema.
+
+- Especificação é a base para os cenários de teste
+-- "O que não está especificado, não será validado"
+
+
+- Faça uma boa seleção de cenários, considerando:
+-- O tempo disponível para execução dos testes
+-- A maturidade dos testadores
+-- A relevância das funcionalidades a serem testadas
+-- Os cenários são INFINITOS. Nunca haverá tempo parar testar TUDO.
+---> SEJA PESSIMISTA E DESTRUTIVA. -> TODO SOFTWARE POSSUÍ FALHAS!
+
+-> Utilizar as planilhas e deixe tudo mapeado.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+BOAS PRÁTICAS:
+
+- Técnicas:
+
+-> Não execute cenários roboticamente. Explore quando necessário.
+--> NÃO SE LIMITE!!! -> Possibilidade de explorar mais!!!
+
+-> Achou uma falha? Detalhe ao máximo!
+
+
+
+Exemplo de reportagem: 
+
+- Não seguir: "A caixa de mensagens não segue o padrão"
+
+--------------------------------------------------------------
+
+- Seguir: "Após não preencher um dos campos obrigatórios 
+no formulário de cadastro de usuário, a caixa de mensagens 
+apresentada está em um formato diferente das demais caixas 
+de mensagens de erro do sistema"
+--> Browser: Chrome v10.2;
+--> Dispositivo: Tablet Ipad 7;
+--> Inserir printscreen;
+
+---> A falha foi corrigida? RETESTE!!! (Teste de regressão)
+
+- Busque padrões ao reportar uma falha
+--> Verificar se o erro está associando a apenas um produto OU mais!
+
+
+- UTILIZAR PLANILHAS OU FERRAMENTAS WEB:
+-> Proj4me;
+-> JIRA;
+-> Bugzilla;
+-> Trac;
+e etc...
+
+
+- Teste sempre os valores limites!!!
+--> EX: Idade: 18 a 55 anos
+---> Teste: 17 a 56 anos 
+
+
+- Formulários:
+-- Campo em branco;
+-- Campo com valor inválido;
+-- Quantidade de caracteres; 
+-- E-mail inválido;
+-- Mensagens de erro coerentes;
+
+- Cálculos:
+-- Valores positivos;
+-- Valores negativos;
+-- ZERO;
+-- Intervalos fechados e abertos;
+-- Acima do limite máximo e abaixo do limite mínimo;
+
+---> TENTE PENSAR COMO UM USUÁRIO PENSARIA!
+
+
