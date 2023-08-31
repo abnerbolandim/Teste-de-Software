@@ -1,0 +1,27 @@
+ESTÁTICAS E DINÂMICAS SE COMPLEMENTAM!!!
+
+
+Teste estático:
+
+-> Analisar o código sem executar | CAIXA BRANCA;
+-> Esse tipo de teste automatico | Use: Findbugs;
+
+VERIFICAÇÕES:
+
+- Código está documentado?
+- Variáveis e constantes possuem boas nomenclaturas? 
+- Código está organizado e com boa legibilidade?
+- Existem possíveis NullPointers são tratados pelo programador?
+- O programador obedeceu à arquitetura do sistema ao codificar?
+- As conexões com o banco de dados estão sendo fechadas após utilizadas?
+
+            --FAZER AS PERGUNTAS ACIMA--
+                   -=- CHECKLIST -=-
+
+
+Teste dinâmico:
+
+-> Validar o sistema executando;
+-> Método tradicional | entrada -> executa sistema -> confere saída;
+
+
