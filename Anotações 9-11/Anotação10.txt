@@ -27,7 +27,7 @@ critériosos, chatos, na ferida do sistema.
 -- O tempo disponível para execução dos testes
 -- A maturidade dos testadores
 -- A relevância das funcionalidades a serem testadas
--- Os cenários são INFINITOS. Nunca haverá tempo parar testar TUDO.
+-- Os cenários são INFINITOS. Nunca haverá tempo para testar TUDO.
 ---> SEJA PESSIMISTA E DESTRUTIVA. -> TODO SOFTWARE POSSUÍ FALHAS!
 
 -> Utilizar as planilhas e deixe tudo mapeado.
@@ -42,7 +42,6 @@ BOAS PRÁTICAS:
 --> NÃO SE LIMITE!!! -> Possibilidade de explorar mais!!!
 
 -> Achou uma falha? Detalhe ao máximo!
-
 
 
 Exemplo de reportagem: 
@@ -93,5 +92,3 @@ e etc...
 -- Acima do limite máximo e abaixo do limite mínimo;
 
 ---> TENTE PENSAR COMO UM USUÁRIO PENSARIA!
-
-
