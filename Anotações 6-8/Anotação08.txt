@@ -20,7 +20,7 @@ EX:
 - Tráfego de informações criptografadas;
 
 
--> Contratação de hackers para tenatr invadir e reportar o
+-> Contratação de hackers para tentar invadir e reportar o
 que deve ser alterado no sistema;
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -50,8 +50,6 @@ hardware e serviços indisponíveis ou recursos compartilhados limitados;
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 TIPOS INFORMAIS:
-
-
 
 Teste de recuperabildade - Sistema caiu e o 
 tempo para recuperar;
